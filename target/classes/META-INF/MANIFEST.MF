@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: demoone
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: yangn_000
+Implementation-Vendor-Id: com.greenleaf
+Build-Jdk: 1.8.0_92
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/one
+Created-By: Maven Integration for Eclipse
+
