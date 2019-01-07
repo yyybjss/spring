@@ -11,6 +11,8 @@ public class DemooneApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		System.out.println("test");
 	}
+
 
 }
